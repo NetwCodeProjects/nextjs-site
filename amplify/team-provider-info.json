@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-cybertrustforum-dev-92216-authRole",
+      "UnauthRoleArn": "arn:aws:iam::188221305151:role/amplify-cybertrustforum-dev-92216-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::188221305151:role/amplify-cybertrustforum-dev-92216-authRole",
+      "Region": "us-west-1",
+      "DeploymentBucketName": "amplify-cybertrustforum-dev-92216-deployment",
+      "UnauthRoleName": "amplify-cybertrustforum-dev-92216-unauthRole",
+      "StackName": "amplify-cybertrustforum-dev-92216",
+      "StackId": "arn:aws:cloudformation:us-west-1:188221305151:stack/amplify-cybertrustforum-dev-92216/501833f0-ffcf-11ed-b7e7-02ae05eeed41",
+      "AmplifyAppId": "d62quy6xq8o82"
+    }
+  }
+}
